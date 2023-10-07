@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Front End Dev**
 
-- ⚡ Fun fact **An introvert, kind and open minded. I**
+- ⚡ Fun fact **An introvert, kind and open minded.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
