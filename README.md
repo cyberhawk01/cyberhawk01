@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://codewithoye.github.io/](https://codewithoye.github.io/)
+- 👨‍💻 All of my projects are available at [https://akinoye.tech/](https://akinoye.tech/)
 
 - 💬 Ask me about **Front End Dev**
 
