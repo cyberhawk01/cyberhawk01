@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/zhxGnB66MyK4iczQYy/giphy.gif?cid=ecf05e4775ezch201k91qu723e34ud4iamtb9ljip1hn9mni&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://codewithoye.github.io)
+[![MasterHead](https://media2.giphy.com/media/zhxGnB66MyK4iczQYy/giphy.gif?cid=ecf05e4775ezch201k91qu723e34ud4iamtb9ljip1hn9mni&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://akinoye.tech)
 <h1 align="center">Hi 👋, I'm Akintunde Oyelakin</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/monkey-laptop-coding-miys12p5izw3s11s.webp">
