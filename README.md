@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akinoye.tech/](https://akinoye.tech/)
 
-- 💬 Ask me about **Front End Dev**
+- 💬 Ask me about **Software Development**
 
 - ⚡ Fun fact **An introvert, kind and open minded.**
 
